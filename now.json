@@ -1,0 +1,10 @@
+{
+  "name": "vlyjs.com",
+  "alias": "vlyjs.com",
+  "github": {
+    "autoAlias": false,
+    "silent": true
+  },
+  "version": 1,
+  "type": "docker"
+}

@@ -57,5 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+<<<<<<< HEAD
 # next.js build output
 .next
+=======
+# Istanbul coverage
+coverage/
+
+# cypress
+cypress/screenshots
+cypress/videos 
+>>>>>>> :art: build config
